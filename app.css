@@ -134,7 +134,7 @@ html {
 }
 
 body {
-  background-color: #60a9ff;
+  background-color: rgb(75, 89, 216);
   display: flex;
   justify-content: center;
   align-items: center;
